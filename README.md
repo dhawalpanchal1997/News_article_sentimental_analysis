@@ -103,10 +103,4 @@ Here is an example of the output:
 ## Contributing
 Contributions are welcome! If you have suggestions for improvement, feel free to submit an issue or a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-**Author**: Your Name  
-**Contact**: [your.email@example.com](mailto:your.email@example.com)
 
